@@ -1,0 +1,501 @@
+﻿Transaction_ID,Transaction_Date,Customer_ID,Bank,Payment_Method,Amount_INR,Status,Failure_Reason,City,Customer_Type,Device
+TXN0001,13-Apr-2026,CUST0117,Kotak Mahindra Bank,Credit Card,₹794.25,Success,,Chennai,Individual,Android
+TXN0002,10-Apr-2026,CUST0192,State Bank of India,UPI,"₹1,766.32",Failed,Network Error,Pune,Individual,iOS
+TXN0003,10-Jun-2026,CUST0208,HDFC Bank,UPI,"₹1,438.78",Success,,Bengaluru,Individual,Android
+TXN0004,28-Sep-2026,CUST0051,State Bank of India,UPI,₹285.75,Success,,Kolkata,Individual,iOS
+TXN0005,15-May-2026,CUST0175,Axis Bank,UPI,₹765.01,Success,,Kolkata,Individual,Android
+TXN0006,04-Feb-2026,CUST0106,Axis Bank,Net Banking,"₹2,442.21",Success,,Delhi,Small Business,Android
+TXN0007,17-Sep-2026,CUST0111,Axis Bank,Wallet,"₹1,413.83",Success,,Mumbai,Merchant,Web
+TXN0008,22-Feb-2026,CUST0045,HDFC Bank,Debit Card,"₹2,324.82",Success,,Kolkata,Individual,Android
+TXN0009,06-Mar-2026,CUST0005,State Bank of India,UPI,"₹1,161.45",Success,,Bengaluru,Small Business,iOS
+TXN0010,19-Aug-2026,CUST0247,Axis Bank,Debit Card,₹976.14,Success,,Chennai,Merchant,Android
+TXN0011,03-Mar-2026,CUST0001,State Bank of India,Debit Card,"₹2,906.96",Success,,Bengaluru,Individual,Android
+TXN0012,05-Jan-2026,CUST0179,State Bank of India,Debit Card,₹611.81,Success,,Mumbai,Small Business,Android
+TXN0013,04-Mar-2026,CUST0029,Axis Bank,Debit Card,"₹1,147.35",Success,,Pune,Individual,iOS
+TXN0014,05-Feb-2026,CUST0185,State Bank of India,Wallet,"₹2,467.49",Success,,Bengaluru,Individual,Web
+TXN0015,14-May-2026,CUST0225,State Bank of India,UPI,₹394.75,Success,,Ahmedabad,Small Business,Web
+TXN0016,01-May-2026,CUST0165,HDFC Bank,Net Banking,"₹1,010.74",Success,,Bengaluru,Individual,Android
+TXN0017,13-Aug-2026,CUST0039,HDFC Bank,Wallet,₹928.01,Failed,Fraud Check,Kolkata,Individual,Web
+TXN0018,23-Apr-2026,CUST0229,HDFC Bank,UPI,₹657.45,Success,,Bengaluru,Individual,Android
+TXN0019,12-Aug-2026,CUST0203,Axis Bank,UPI,"₹1,038.78",Success,,Delhi,Merchant,Android
+TXN0020,03-Jul-2026,CUST0144,Kotak Mahindra Bank,UPI,"₹1,504.53",Success,,Kolkata,Merchant,Android
+TXN0021,07-Apr-2026,CUST0147,State Bank of India,Debit Card,"₹1,225.56",Success,,Kolkata,Individual,Android
+TXN0022,28-May-2026,CUST0011,Axis Bank,Debit Card,₹488.95,Failed,Insufficient Balance,Mumbai,Small Business,Android
+TXN0023,31-May-2026,CUST0048,ICICI Bank,UPI,"₹4,886.91",Success,,Ahmedabad,Individual,Android
+TXN0024,11-Sep-2026,CUST0048,Kotak Mahindra Bank,Net Banking,"₹1,615.43",Success,,Ahmedabad,Individual,Android
+TXN0025,27-Jul-2026,CUST0217,Axis Bank,UPI,"₹1,907.04",Success,,Pune,Small Business,iOS
+TXN0026,09-Apr-2026,CUST0189,ICICI Bank,Wallet,"₹2,989.56",Success,,Ahmedabad,Individual,Android
+TXN0027,18-Jun-2026,CUST0214,State Bank of India,UPI,₹442.54,Success,,Mumbai,Individual,Android
+TXN0028,22-Jan-2026,CUST0030,Kotak Mahindra Bank,UPI,"₹1,177.46",Success,,Bengaluru,Merchant,iOS
+TXN0029,07-Apr-2026,CUST0017,Kotak Mahindra Bank,UPI,₹983.96,Success,,Ahmedabad,Individual,Android
+TXN0030,21-Jun-2026,CUST0024,Kotak Mahindra Bank,Wallet,"₹9,229.90",Success,,Pune,Merchant,Android
+TXN0031,30-Jun-2026,CUST0018,Kotak Mahindra Bank,UPI,"₹1,544.38",Success,,Hyderabad,Individual,Android
+TXN0032,11-Aug-2026,CUST0151,State Bank of India,Net Banking,"₹1,246.44",Success,,Ahmedabad,Individual,Android
+TXN0033,07-May-2026,CUST0247,HDFC Bank,Credit Card,"₹2,652.20",Success,,Mumbai,Small Business,Android
+TXN0034,26-Jan-2026,CUST0173,HDFC Bank,Net Banking,"₹1,247.13",Success,,Ahmedabad,Merchant,Android
+TXN0035,20-Jan-2026,CUST0215,Axis Bank,Credit Card,"₹3,255.94",Success,,Bengaluru,Individual,Android
+TXN0036,20-Feb-2026,CUST0070,Kotak Mahindra Bank,UPI,"₹2,518.02",Success,,Pune,Individual,Android
+TXN0037,28-Sep-2026,CUST0109,Kotak Mahindra Bank,UPI,₹614.15,Success,,Kolkata,Individual,iOS
+TXN0038,16-Feb-2026,CUST0145,Axis Bank,Debit Card,₹933.52,Success,,Ahmedabad,Merchant,Android
+TXN0039,30-Apr-2026,CUST0245,Kotak Mahindra Bank,UPI,₹859.80,Success,,Delhi,Merchant,Web
+TXN0040,09-May-2026,CUST0232,HDFC Bank,UPI,₹343.17,Success,,Chennai,Individual,Android
+TXN0041,25-Aug-2026,CUST0029,State Bank of India,Debit Card,"₹1,592.48",Success,,Kolkata,Individual,Android
+TXN0042,08-Aug-2026,CUST0218,HDFC Bank,UPI,"₹4,140.58",Success,,Pune,Merchant,iOS
+TXN0043,08-Feb-2026,CUST0138,ICICI Bank,Debit Card,₹836.43,Success,,Delhi,Merchant,Web
+TXN0044,07-Sep-2026,CUST0247,HDFC Bank,Wallet,₹249.57,Success,,Ahmedabad,Small Business,Android
+TXN0045,15-Sep-2026,CUST0171,Axis Bank,Wallet,"₹1,264.50",Success,,Delhi,Individual,Android
+TXN0046,11-Apr-2026,CUST0012,HDFC Bank,Debit Card,₹898.83,Success,,Mumbai,Small Business,Android
+TXN0047,05-Apr-2026,CUST0162,HDFC Bank,Debit Card,₹876.73,Success,,Delhi,Individual,Web
+TXN0048,25-Apr-2026,CUST0217,Axis Bank,UPI,"₹1,103.80",Failed,Server Downtime,Delhi,Small Business,iOS
+TXN0049,06-Sep-2026,CUST0096,State Bank of India,Debit Card,₹227.58,Success,,Mumbai,Small Business,Android
+TXN0050,01-Jun-2026,CUST0105,Kotak Mahindra Bank,Net Banking,"₹3,402.45",Success,,Kolkata,Individual,iOS
+TXN0051,30-Sep-2026,CUST0076,Kotak Mahindra Bank,UPI,₹939.73,Failed,Incorrect PIN,Bengaluru,Individual,Android
+TXN0052,22-Sep-2026,CUST0140,Axis Bank,UPI,"₹13,774.38",Success,,Bengaluru,Individual,Android
+TXN0053,25-Jan-2026,CUST0223,HDFC Bank,Wallet,₹407.32,Success,,Chennai,Individual,Android
+TXN0054,02-May-2026,CUST0186,Kotak Mahindra Bank,UPI,"₹1,468.60",Success,,Bengaluru,Small Business,Web
+TXN0055,10-Sep-2026,CUST0166,HDFC Bank,UPI,₹988.57,Success,,Delhi,Merchant,Android
+TXN0056,16-May-2026,CUST0132,HDFC Bank,UPI,"₹2,915.19",Pending,,Pune,Small Business,Web
+TXN0057,11-Mar-2026,CUST0141,State Bank of India,UPI,"₹1,061.22",Success,,Delhi,Merchant,Android
+TXN0058,30-Aug-2026,CUST0001,ICICI Bank,UPI,"₹4,844.80",Success,,Kolkata,Individual,Android
+TXN0059,09-Jul-2026,CUST0173,HDFC Bank,UPI,₹794.83,Pending,,Pune,Individual,Web
+TXN0060,29-May-2026,CUST0185,Kotak Mahindra Bank,UPI,₹189.75,Success,,Bengaluru,Merchant,Android
+TXN0061,16-Feb-2026,CUST0012,Kotak Mahindra Bank,UPI,"₹3,563.27",Success,,Pune,Individual,Web
+TXN0062,12-Aug-2026,CUST0090,Axis Bank,UPI,"₹2,463.97",Success,,Ahmedabad,Individual,Android
+TXN0063,16-May-2026,CUST0161,HDFC Bank,UPI,"₹2,603.28",Success,,Kolkata,Merchant,iOS
+TXN0064,31-Jul-2026,CUST0047,Kotak Mahindra Bank,Debit Card,₹308.73,Failed,Bank Declined,Hyderabad,Merchant,Web
+TXN0065,10-Jan-2026,CUST0177,HDFC Bank,Wallet,"₹2,906.36",Failed,Incorrect PIN,Bengaluru,Individual,Android
+TXN0066,08-Apr-2026,CUST0095,HDFC Bank,UPI,₹844.04,Success,,Hyderabad,Individual,Web
+TXN0067,13-May-2026,CUST0110,Kotak Mahindra Bank,Credit Card,"₹1,204.73",Success,,Delhi,Small Business,Android
+TXN0068,01-Jan-2026,CUST0092,Kotak Mahindra Bank,Wallet,"₹1,243.04",Success,,Kolkata,Individual,iOS
+TXN0069,05-Apr-2026,CUST0222,State Bank of India,UPI,"₹1,539.65",Failed,Fraud Check,Bengaluru,Individual,Web
+TXN0070,08-Sep-2026,CUST0226,Kotak Mahindra Bank,UPI,₹684.52,Failed,Server Downtime,Hyderabad,Individual,Web
+TXN0071,08-Apr-2026,CUST0247,ICICI Bank,UPI,"₹2,225.18",Failed,Fraud Check,Kolkata,Individual,Android
+TXN0072,16-Apr-2026,CUST0084,Kotak Mahindra Bank,Net Banking,"₹5,593.81",Success,,Hyderabad,Individual,Web
+TXN0073,10-Mar-2026,CUST0183,State Bank of India,UPI,"₹1,194.43",Success,,Bengaluru,Individual,Android
+TXN0074,05-Apr-2026,CUST0093,Axis Bank,UPI,"₹1,623.62",Failed,Incorrect PIN,Ahmedabad,Small Business,Android
+TXN0075,09-Jun-2026,CUST0001,Kotak Mahindra Bank,UPI,₹858.39,Success,,Delhi,Individual,Android
+TXN0076,13-May-2026,CUST0073,ICICI Bank,UPI,₹839.93,Success,,Pune,Individual,Android
+TXN0077,06-Sep-2026,CUST0099,State Bank of India,UPI,"₹5,235.76",Failed,Insufficient Balance,Chennai,Individual,Android
+TXN0078,10-Sep-2026,CUST0014,ICICI Bank,Wallet,"₹1,035.00",Success,,Kolkata,Individual,Android
+TXN0079,06-Jul-2026,CUST0115,State Bank of India,Net Banking,"₹2,272.48",Success,,Chennai,Individual,Web
+TXN0080,15-Jan-2026,CUST0218,Kotak Mahindra Bank,UPI,₹571.99,Success,,Kolkata,Individual,Android
+TXN0081,06-May-2026,CUST0008,Kotak Mahindra Bank,Credit Card,"₹4,253.23",Success,,Delhi,Individual,Android
+TXN0082,24-Aug-2026,CUST0184,HDFC Bank,UPI,"₹2,324.61",Success,,Hyderabad,Individual,iOS
+TXN0083,17-Aug-2026,CUST0131,State Bank of India,UPI,₹755.41,Failed,Daily Limit Exceeded,Pune,Individual,Android
+TXN0084,31-Aug-2026,CUST0075,Kotak Mahindra Bank,UPI,₹466.82,Success,,Kolkata,Merchant,Web
+TXN0085,04-Jan-2026,CUST0133,ICICI Bank,Net Banking,"₹4,612.15",Success,,Chennai,Individual,Android
+TXN0086,28-Apr-2026,CUST0142,Axis Bank,Credit Card,"₹1,134.78",Success,,Mumbai,Small Business,Android
+TXN0087,07-Feb-2026,CUST0151,State Bank of India,UPI,₹510.67,Success,,Bengaluru,Individual,Android
+TXN0088,18-May-2026,CUST0017,Kotak Mahindra Bank,Wallet,"₹1,466.87",Success,,Ahmedabad,Small Business,Android
+TXN0089,22-Sep-2026,CUST0120,HDFC Bank,UPI,₹697.55,Success,,Hyderabad,Small Business,Web
+TXN0090,17-May-2026,CUST0093,State Bank of India,UPI,"₹7,446.23",Success,,Bengaluru,Merchant,iOS
+TXN0091,24-Sep-2026,CUST0132,Kotak Mahindra Bank,UPI,₹768.31,Success,,Hyderabad,Small Business,iOS
+TXN0092,30-Mar-2026,CUST0179,HDFC Bank,Net Banking,"₹1,865.57",Success,,Delhi,Small Business,Android
+TXN0093,05-May-2026,CUST0104,HDFC Bank,UPI,"₹2,640.63",Success,,Mumbai,Merchant,Android
+TXN0094,14-Apr-2026,CUST0192,State Bank of India,Debit Card,₹637.41,Success,,Pune,Merchant,iOS
+TXN0095,15-Jan-2026,CUST0155,State Bank of India,Credit Card,"₹1,188.58",Success,,Kolkata,Merchant,iOS
+TXN0096,11-Sep-2026,CUST0141,ICICI Bank,UPI,"₹2,646.18",Success,,Delhi,Individual,iOS
+TXN0097,08-Jun-2026,CUST0130,Kotak Mahindra Bank,Debit Card,₹668.81,Success,,Ahmedabad,Individual,Android
+TXN0098,05-Apr-2026,CUST0074,Axis Bank,Debit Card,₹231.06,Success,,Kolkata,Small Business,iOS
+TXN0099,07-Feb-2026,CUST0225,State Bank of India,UPI,₹884.36,Success,,Kolkata,Merchant,Android
+TXN0100,21-Apr-2026,CUST0037,State Bank of India,Credit Card,₹403.80,Success,,Kolkata,Individual,Web
+TXN0101,07-May-2026,CUST0046,State Bank of India,Debit Card,"₹1,447.74",Failed,Insufficient Balance,Hyderabad,Individual,Web
+TXN0102,11-Apr-2026,CUST0115,Axis Bank,Wallet,₹510.43,Success,,Pune,Small Business,Android
+TXN0103,29-May-2026,CUST0090,HDFC Bank,UPI,"₹3,421.90",Success,,Hyderabad,Individual,Android
+TXN0104,16-Mar-2026,CUST0108,ICICI Bank,Wallet,₹715.00,Success,,Bengaluru,Small Business,Android
+TXN0105,08-Sep-2026,CUST0154,Kotak Mahindra Bank,UPI,₹998.02,Success,,Ahmedabad,Individual,iOS
+TXN0106,05-Jun-2026,CUST0086,HDFC Bank,UPI,₹978.02,Success,,Chennai,Merchant,Android
+TXN0107,04-Mar-2026,CUST0029,Kotak Mahindra Bank,Debit Card,"₹1,200.63",Failed,Fraud Check,Pune,Small Business,Android
+TXN0108,24-May-2026,CUST0220,ICICI Bank,Debit Card,"₹1,351.23",Success,,Mumbai,Small Business,Android
+TXN0109,23-Apr-2026,CUST0202,HDFC Bank,UPI,"₹3,055.32",Success,,Ahmedabad,Merchant,Web
+TXN0110,11-Jun-2026,CUST0247,Axis Bank,UPI,₹253.42,Success,,Ahmedabad,Small Business,iOS
+TXN0111,12-Sep-2026,CUST0235,ICICI Bank,Debit Card,₹809.72,Success,,Bengaluru,Individual,iOS
+TXN0112,14-Jun-2026,CUST0112,ICICI Bank,UPI,"₹1,732.13",Success,,Chennai,Individual,iOS
+TXN0113,05-Feb-2026,CUST0119,Kotak Mahindra Bank,Net Banking,"₹3,346.28",Success,,Kolkata,Individual,Web
+TXN0114,20-Jan-2026,CUST0108,HDFC Bank,Debit Card,"₹2,462.09",Pending,,Delhi,Merchant,Android
+TXN0115,22-Mar-2026,CUST0237,HDFC Bank,Net Banking,"₹1,166.60",Success,,Delhi,Individual,Android
+TXN0116,20-Jul-2026,CUST0215,State Bank of India,UPI,"₹2,745.05",Success,,Pune,Merchant,Android
+TXN0117,16-Mar-2026,CUST0076,HDFC Bank,Net Banking,"₹1,313.65",Success,,Pune,Individual,Android
+TXN0118,28-Mar-2026,CUST0012,Kotak Mahindra Bank,UPI,"₹3,210.38",Success,,Bengaluru,Merchant,Web
+TXN0119,25-Aug-2026,CUST0054,ICICI Bank,Net Banking,₹565.24,Success,,Hyderabad,Individual,Android
+TXN0120,12-Jul-2026,CUST0164,Axis Bank,UPI,"₹1,759.52",Success,,Bengaluru,Individual,Android
+TXN0121,23-Apr-2026,CUST0227,Kotak Mahindra Bank,Wallet,"₹2,102.96",Success,,Ahmedabad,Individual,Android
+TXN0122,01-Sep-2026,CUST0073,State Bank of India,UPI,"₹3,698.95",Success,,Hyderabad,Individual,iOS
+TXN0123,20-Jul-2026,CUST0172,ICICI Bank,Credit Card,₹547.65,Success,,Mumbai,Individual,Web
+TXN0124,12-Apr-2026,CUST0074,State Bank of India,Debit Card,₹315.66,Success,,Hyderabad,Individual,Web
+TXN0125,26-Feb-2026,CUST0208,State Bank of India,UPI,₹446.11,Success,,Ahmedabad,Individual,iOS
+TXN0126,17-Jul-2026,CUST0026,ICICI Bank,Wallet,"₹1,012.72",Success,,Mumbai,Individual,iOS
+TXN0127,16-Feb-2026,CUST0007,ICICI Bank,Wallet,"₹1,296.84",Success,,Hyderabad,Individual,Android
+TXN0128,17-May-2026,CUST0227,ICICI Bank,UPI,₹803.74,Failed,Daily Limit Exceeded,Bengaluru,Merchant,Android
+TXN0129,13-Apr-2026,CUST0183,Axis Bank,UPI,"₹1,289.70",Success,,Hyderabad,Individual,iOS
+TXN0130,08-Feb-2026,CUST0016,HDFC Bank,UPI,₹848.42,Success,,Kolkata,Small Business,Android
+TXN0131,18-Apr-2026,CUST0221,State Bank of India,Wallet,"₹1,276.39",Success,,Bengaluru,Merchant,Android
+TXN0132,02-Sep-2026,CUST0084,Axis Bank,UPI,"₹2,668.27",Success,,Chennai,Individual,Android
+TXN0133,06-Mar-2026,CUST0181,ICICI Bank,UPI,₹875.62,Success,,Kolkata,Small Business,iOS
+TXN0134,14-Mar-2026,CUST0229,HDFC Bank,UPI,₹971.40,Success,,Ahmedabad,Individual,Web
+TXN0135,17-Jul-2026,CUST0117,Axis Bank,Wallet,"₹2,238.89",Success,,Kolkata,Individual,Web
+TXN0136,31-Aug-2026,CUST0003,ICICI Bank,UPI,"₹1,402.18",Success,,Bengaluru,Individual,Android
+TXN0137,19-Sep-2026,CUST0163,HDFC Bank,UPI,"₹1,766.10",Success,,Bengaluru,Individual,Android
+TXN0138,27-Jun-2026,CUST0125,HDFC Bank,UPI,"₹2,938.67",Success,,Ahmedabad,Merchant,Android
+TXN0139,30-Mar-2026,CUST0226,HDFC Bank,UPI,"₹3,830.33",Failed,Insufficient Balance,Ahmedabad,Individual,Android
+TXN0140,19-Jun-2026,CUST0038,HDFC Bank,Net Banking,"₹4,614.62",Success,,Hyderabad,Small Business,Android
+TXN0141,08-Sep-2026,CUST0040,Axis Bank,UPI,"₹1,170.55",Success,,Ahmedabad,Small Business,Android
+TXN0142,12-Aug-2026,CUST0205,State Bank of India,UPI,"₹4,610.06",Success,,Delhi,Individual,iOS
+TXN0143,25-Aug-2026,CUST0045,Axis Bank,Net Banking,"₹1,350.32",Success,,Mumbai,Individual,Android
+TXN0144,30-Jun-2026,CUST0243,State Bank of India,Debit Card,"₹4,396.51",Failed,Insufficient Balance,Pune,Individual,Web
+TXN0145,31-Jan-2026,CUST0194,ICICI Bank,UPI,"₹1,058.64",Success,,Kolkata,Individual,iOS
+TXN0146,12-Aug-2026,CUST0192,State Bank of India,UPI,"₹1,339.58",Success,,Mumbai,Individual,Android
+TXN0147,12-Jun-2026,CUST0037,HDFC Bank,UPI,₹895.04,Success,,Ahmedabad,Small Business,Android
+TXN0148,15-Jul-2026,CUST0145,Axis Bank,UPI,₹725.78,Success,,Delhi,Merchant,Android
+TXN0149,12-Jul-2026,CUST0111,Axis Bank,Debit Card,₹772.91,Success,,Hyderabad,Individual,Android
+TXN0150,20-Mar-2026,CUST0004,State Bank of India,Net Banking,"₹5,030.03",Success,,Delhi,Individual,Android
+TXN0151,09-Apr-2026,CUST0022,Kotak Mahindra Bank,Credit Card,₹477.08,Success,,Bengaluru,Individual,Android
+TXN0152,27-Jan-2026,CUST0187,Axis Bank,Net Banking,"₹1,050.24",Success,,Ahmedabad,Individual,Web
+TXN0153,25-Mar-2026,CUST0064,HDFC Bank,Wallet,₹382.20,Success,,Delhi,Merchant,Android
+TXN0154,12-Jan-2026,CUST0093,Axis Bank,Debit Card,₹714.19,Success,,Ahmedabad,Individual,Android
+TXN0155,08-Jan-2026,CUST0148,State Bank of India,Credit Card,"₹1,839.78",Failed,Incorrect PIN,Hyderabad,Individual,Android
+TXN0156,15-Feb-2026,CUST0249,HDFC Bank,UPI,"₹1,678.84",Success,,Pune,Small Business,Android
+TXN0157,02-Aug-2026,CUST0064,State Bank of India,Credit Card,₹363.77,Success,,Ahmedabad,Individual,Android
+TXN0158,05-Apr-2026,CUST0214,State Bank of India,Credit Card,"₹1,832.80",Failed,Incorrect PIN,Hyderabad,Small Business,Web
+TXN0159,28-Jun-2026,CUST0002,Axis Bank,Wallet,₹984.94,Failed,Insufficient Balance,Kolkata,Individual,iOS
+TXN0160,13-Aug-2026,CUST0194,Kotak Mahindra Bank,UPI,₹886.79,Success,,Pune,Individual,Android
+TXN0161,15-Jun-2026,CUST0195,ICICI Bank,Net Banking,"₹4,620.89",Success,,Delhi,Individual,Android
+TXN0162,03-May-2026,CUST0092,HDFC Bank,UPI,"₹1,940.52",Failed,Network Error,Chennai,Individual,Android
+TXN0163,25-Mar-2026,CUST0003,Axis Bank,UPI,"₹2,636.59",Success,,Ahmedabad,Individual,Web
+TXN0164,07-May-2026,CUST0141,ICICI Bank,UPI,₹803.24,Success,,Pune,Individual,Android
+TXN0165,25-Jan-2026,CUST0051,Axis Bank,Wallet,₹943.71,Success,,Hyderabad,Individual,iOS
+TXN0166,23-Mar-2026,CUST0156,State Bank of India,UPI,"₹1,649.46",Success,,Pune,Individual,Android
+TXN0167,21-Jul-2026,CUST0189,HDFC Bank,UPI,₹429.58,Success,,Chennai,Individual,Web
+TXN0168,24-Jan-2026,CUST0177,Axis Bank,UPI,₹840.88,Success,,Kolkata,Individual,Web
+TXN0169,06-Apr-2026,CUST0243,Axis Bank,UPI,₹882.70,Success,,Delhi,Individual,iOS
+TXN0170,05-Jul-2026,CUST0099,Axis Bank,Net Banking,"₹1,270.97",Success,,Bengaluru,Individual,iOS
+TXN0171,08-Jan-2026,CUST0246,ICICI Bank,Debit Card,"₹4,158.12",Success,,Chennai,Individual,Android
+TXN0172,21-Apr-2026,CUST0249,HDFC Bank,Debit Card,₹377.95,Success,,Kolkata,Individual,Android
+TXN0173,28-Jan-2026,CUST0010,Axis Bank,UPI,"₹2,198.54",Success,,Ahmedabad,Individual,Android
+TXN0174,14-Jul-2026,CUST0020,ICICI Bank,UPI,₹471.42,Success,,Hyderabad,Individual,Web
+TXN0175,21-Sep-2026,CUST0165,Axis Bank,UPI,"₹3,698.37",Success,,Kolkata,Individual,iOS
+TXN0176,30-Apr-2026,CUST0114,Axis Bank,Net Banking,"₹2,270.47",Success,,Chennai,Merchant,Android
+TXN0177,10-May-2026,CUST0161,HDFC Bank,UPI,₹942.81,Success,,Chennai,Individual,Android
+TXN0178,28-Jun-2026,CUST0226,ICICI Bank,UPI,₹855.62,Success,,Kolkata,Merchant,Web
+TXN0179,05-Aug-2026,CUST0126,State Bank of India,UPI,"₹2,385.88",Success,,Delhi,Individual,Android
+TXN0180,22-Aug-2026,CUST0005,ICICI Bank,Credit Card,"₹1,556.11",Success,,Hyderabad,Individual,iOS
+TXN0181,27-Mar-2026,CUST0047,State Bank of India,Wallet,"₹2,195.07",Success,,Delhi,Individual,Android
+TXN0182,20-Aug-2026,CUST0031,State Bank of India,Credit Card,₹480.99,Success,,Ahmedabad,Small Business,Web
+TXN0183,22-May-2026,CUST0169,Axis Bank,UPI,"₹4,085.30",Pending,,Delhi,Merchant,Android
+TXN0184,30-Mar-2026,CUST0102,HDFC Bank,Net Banking,₹507.92,Failed,Bank Declined,Hyderabad,Individual,iOS
+TXN0185,12-May-2026,CUST0054,HDFC Bank,Credit Card,"₹2,631.39",Success,,Chennai,Individual,Web
+TXN0186,30-Mar-2026,CUST0093,HDFC Bank,UPI,"₹1,840.03",Success,,Kolkata,Individual,Android
+TXN0187,12-Aug-2026,CUST0003,State Bank of India,UPI,₹454.96,Success,,Ahmedabad,Small Business,iOS
+TXN0188,26-Mar-2026,CUST0133,ICICI Bank,Net Banking,₹764.60,Success,,Pune,Merchant,Web
+TXN0189,16-Aug-2026,CUST0247,ICICI Bank,Net Banking,"₹3,388.97",Success,,Kolkata,Merchant,Android
+TXN0190,27-Apr-2026,CUST0019,HDFC Bank,Net Banking,"₹1,831.72",Failed,Fraud Check,Kolkata,Merchant,Android
+TXN0191,21-Feb-2026,CUST0090,ICICI Bank,UPI,"₹1,775.59",Pending,,Kolkata,Small Business,Android
+TXN0192,20-Sep-2026,CUST0170,ICICI Bank,Debit Card,"₹1,401.38",Success,,Chennai,Individual,iOS
+TXN0193,05-Feb-2026,CUST0150,Axis Bank,Net Banking,₹647.49,Success,,Ahmedabad,Individual,Android
+TXN0194,28-Apr-2026,CUST0121,Axis Bank,UPI,"₹1,072.04",Success,,Mumbai,Small Business,iOS
+TXN0195,05-May-2026,CUST0167,State Bank of India,Debit Card,"₹1,369.86",Success,,Hyderabad,Individual,iOS
+TXN0196,21-Jul-2026,CUST0049,State Bank of India,Net Banking,"₹1,464.30",Success,,Kolkata,Individual,Android
+TXN0197,18-Apr-2026,CUST0201,Kotak Mahindra Bank,UPI,₹920.11,Success,,Chennai,Individual,Android
+TXN0198,19-Mar-2026,CUST0146,HDFC Bank,Debit Card,"₹1,686.20",Success,,Pune,Individual,Android
+TXN0199,11-Feb-2026,CUST0167,Axis Bank,Debit Card,"₹4,223.22",Success,,Pune,Individual,iOS
+TXN0200,19-Apr-2026,CUST0070,Kotak Mahindra Bank,UPI,₹792.26,Success,,Mumbai,Individual,Android
+TXN0201,15-Jul-2026,CUST0067,Axis Bank,Debit Card,"₹3,038.11",Success,,Bengaluru,Individual,Android
+TXN0202,27-Feb-2026,CUST0215,ICICI Bank,UPI,"₹1,021.35",Pending,,Chennai,Individual,Android
+TXN0203,26-Apr-2026,CUST0190,Kotak Mahindra Bank,Wallet,"₹1,290.01",Success,,Hyderabad,Small Business,Android
+TXN0204,07-Jun-2026,CUST0030,Axis Bank,UPI,₹720.12,Success,,Mumbai,Individual,Web
+TXN0205,25-Aug-2026,CUST0016,Axis Bank,Debit Card,₹682.05,Failed,Bank Declined,Pune,Individual,iOS
+TXN0206,07-Feb-2026,CUST0105,Kotak Mahindra Bank,UPI,"₹2,169.09",Success,,Pune,Individual,Android
+TXN0207,15-Sep-2026,CUST0163,Axis Bank,UPI,"₹1,281.09",Success,,Pune,Individual,iOS
+TXN0208,23-May-2026,CUST0082,Kotak Mahindra Bank,Wallet,"₹2,040.89",Success,,Kolkata,Individual,Web
+TXN0209,07-Jun-2026,CUST0210,HDFC Bank,UPI,"₹1,837.95",Success,,Chennai,Individual,Android
+TXN0210,25-Jul-2026,CUST0095,ICICI Bank,Wallet,"₹1,881.40",Success,,Mumbai,Individual,Android
+TXN0211,27-Sep-2026,CUST0025,HDFC Bank,Wallet,₹814.75,Success,,Hyderabad,Individual,Android
+TXN0212,20-Mar-2026,CUST0078,Axis Bank,Wallet,"₹2,413.68",Success,,Kolkata,Merchant,Android
+TXN0213,20-Jan-2026,CUST0243,Kotak Mahindra Bank,Debit Card,₹593.23,Success,,Bengaluru,Individual,iOS
+TXN0214,05-Jan-2026,CUST0056,ICICI Bank,Credit Card,"₹1,077.08",Success,,Mumbai,Individual,Web
+TXN0215,24-Mar-2026,CUST0103,Axis Bank,UPI,₹705.02,Success,,Mumbai,Individual,Web
+TXN0216,09-Aug-2026,CUST0227,Axis Bank,Debit Card,"₹2,277.70",Failed,Fraud Check,Pune,Individual,Android
+TXN0217,07-Jan-2026,CUST0149,Kotak Mahindra Bank,UPI,₹279.24,Success,,Pune,Merchant,Android
+TXN0218,03-Sep-2026,CUST0013,Kotak Mahindra Bank,Credit Card,"₹9,089.38",Success,,Delhi,Small Business,Android
+TXN0219,01-Aug-2026,CUST0139,Kotak Mahindra Bank,UPI,"₹1,639.68",Success,,Hyderabad,Individual,Android
+TXN0220,10-Jul-2026,CUST0082,Kotak Mahindra Bank,UPI,"₹2,689.78",Success,,Delhi,Individual,Web
+TXN0221,20-Aug-2026,CUST0120,ICICI Bank,Net Banking,"₹1,672.68",Success,,Hyderabad,Merchant,Android
+TXN0222,09-May-2026,CUST0028,Kotak Mahindra Bank,Net Banking,"₹2,964.67",Failed,Bank Declined,Mumbai,Small Business,Android
+TXN0223,22-Jul-2026,CUST0160,HDFC Bank,UPI,₹193.70,Failed,Bank Declined,Chennai,Merchant,Android
+TXN0224,28-Mar-2026,CUST0152,Kotak Mahindra Bank,Debit Card,"₹1,115.54",Success,,Ahmedabad,Individual,iOS
+TXN0225,01-Jun-2026,CUST0051,Axis Bank,UPI,"₹1,209.05",Success,,Bengaluru,Merchant,Web
+TXN0226,18-Sep-2026,CUST0073,ICICI Bank,UPI,₹798.81,Failed,Insufficient Balance,Pune,Individual,Android
+TXN0227,18-Feb-2026,CUST0164,HDFC Bank,UPI,₹628.94,Success,,Delhi,Individual,Web
+TXN0228,20-May-2026,CUST0032,ICICI Bank,UPI,₹620.01,Success,,Pune,Individual,Web
+TXN0229,14-Aug-2026,CUST0114,HDFC Bank,Wallet,₹912.66,Success,,Mumbai,Individual,Android
+TXN0230,01-Aug-2026,CUST0222,State Bank of India,Debit Card,₹639.49,Success,,Pune,Individual,Web
+TXN0231,29-Apr-2026,CUST0238,Kotak Mahindra Bank,UPI,₹922.97,Success,,Hyderabad,Individual,Web
+TXN0232,15-May-2026,CUST0013,State Bank of India,UPI,"₹1,811.99",Failed,Bank Declined,Ahmedabad,Individual,Web
+TXN0233,15-Sep-2026,CUST0189,State Bank of India,Net Banking,"₹1,619.45",Success,,Chennai,Small Business,iOS
+TXN0234,03-Jul-2026,CUST0128,State Bank of India,Debit Card,₹736.24,Success,,Chennai,Small Business,Web
+TXN0235,17-Aug-2026,CUST0224,HDFC Bank,UPI,"₹1,081.64",Success,,Kolkata,Small Business,Web
+TXN0236,10-Jan-2026,CUST0164,State Bank of India,Credit Card,₹479.07,Success,,Bengaluru,Small Business,Android
+TXN0237,27-Mar-2026,CUST0223,HDFC Bank,Net Banking,"₹1,426.92",Success,,Delhi,Small Business,iOS
+TXN0238,11-Mar-2026,CUST0024,Kotak Mahindra Bank,Net Banking,"₹1,432.81",Success,,Delhi,Individual,Android
+TXN0239,15-Aug-2026,CUST0020,Kotak Mahindra Bank,UPI,"₹1,612.45",Success,,Delhi,Individual,Android
+TXN0240,30-Sep-2026,CUST0055,Axis Bank,Debit Card,₹622.54,Success,,Hyderabad,Individual,Android
+TXN0241,11-Sep-2026,CUST0152,Axis Bank,Debit Card,"₹7,898.14",Success,,Kolkata,Individual,iOS
+TXN0242,19-Apr-2026,CUST0173,ICICI Bank,Credit Card,₹930.70,Success,,Pune,Individual,Web
+TXN0243,16-Aug-2026,CUST0118,Axis Bank,UPI,"₹1,573.31",Pending,,Mumbai,Individual,iOS
+TXN0244,10-Jun-2026,CUST0078,Axis Bank,UPI,₹777.25,Success,,Kolkata,Small Business,Android
+TXN0245,04-May-2026,CUST0113,HDFC Bank,Debit Card,"₹2,948.52",Success,,Kolkata,Individual,Android
+TXN0246,11-Sep-2026,CUST0046,HDFC Bank,Debit Card,₹280.64,Success,,Bengaluru,Individual,Web
+TXN0247,10-Mar-2026,CUST0231,ICICI Bank,Net Banking,₹910.01,Success,,Ahmedabad,Individual,Android
+TXN0248,09-May-2026,CUST0057,Axis Bank,Credit Card,"₹1,621.98",Success,,Pune,Individual,Android
+TXN0249,31-Jan-2026,CUST0220,Axis Bank,UPI,"₹1,152.59",Success,,Delhi,Individual,Android
+TXN0250,27-Sep-2026,CUST0184,ICICI Bank,UPI,"₹2,207.89",Success,,Mumbai,Small Business,Android
+TXN0251,17-Apr-2026,CUST0199,ICICI Bank,UPI,"₹1,295.06",Success,,Ahmedabad,Small Business,Web
+TXN0252,03-Jun-2026,CUST0218,HDFC Bank,UPI,₹513.79,Success,,Hyderabad,Merchant,Android
+TXN0253,10-Jun-2026,CUST0043,HDFC Bank,UPI,₹871.32,Success,,Mumbai,Merchant,Android
+TXN0254,18-Jun-2026,CUST0074,HDFC Bank,Credit Card,₹799.27,Success,,Mumbai,Individual,Android
+TXN0255,05-Jan-2026,CUST0188,Kotak Mahindra Bank,UPI,₹857.30,Success,,Chennai,Individual,Android
+TXN0256,28-Feb-2026,CUST0127,State Bank of India,UPI,"₹5,418.55",Failed,Network Error,Chennai,Individual,Android
+TXN0257,09-Mar-2026,CUST0233,Kotak Mahindra Bank,UPI,"₹1,315.64",Success,,Chennai,Merchant,Web
+TXN0258,17-Jun-2026,CUST0200,ICICI Bank,Wallet,"₹4,058.57",Success,,Mumbai,Individual,Android
+TXN0259,13-Feb-2026,CUST0051,Axis Bank,UPI,"₹1,048.08",Success,,Chennai,Small Business,Android
+TXN0260,24-Sep-2026,CUST0085,ICICI Bank,UPI,"₹13,159.61",Success,,Ahmedabad,Individual,iOS
+TXN0261,13-Mar-2026,CUST0080,ICICI Bank,Net Banking,₹857.98,Success,,Delhi,Individual,Android
+TXN0262,16-Sep-2026,CUST0008,State Bank of India,Net Banking,"₹3,136.43",Success,,Ahmedabad,Individual,iOS
+TXN0263,11-Apr-2026,CUST0129,State Bank of India,UPI,"₹2,156.90",Success,,Ahmedabad,Individual,iOS
+TXN0264,04-Mar-2026,CUST0250,Kotak Mahindra Bank,UPI,"₹1,836.91",Pending,,Hyderabad,Small Business,Android
+TXN0265,11-Aug-2026,CUST0133,State Bank of India,Debit Card,₹628.69,Success,,Mumbai,Individual,Web
+TXN0266,15-Aug-2026,CUST0172,Kotak Mahindra Bank,UPI,"₹1,576.14",Success,,Mumbai,Small Business,Android
+TXN0267,01-Aug-2026,CUST0213,ICICI Bank,Net Banking,"₹2,085.25",Success,,Ahmedabad,Small Business,Web
+TXN0268,12-Jun-2026,CUST0176,HDFC Bank,UPI,₹784.35,Success,,Bengaluru,Individual,iOS
+TXN0269,30-May-2026,CUST0227,State Bank of India,Net Banking,"₹2,179.51",Success,,Bengaluru,Individual,iOS
+TXN0270,05-Sep-2026,CUST0191,HDFC Bank,UPI,"₹1,908.50",Success,,Kolkata,Individual,Web
+TXN0271,08-Mar-2026,CUST0228,Kotak Mahindra Bank,UPI,"₹1,319.31",Success,,Bengaluru,Small Business,Android
+TXN0272,08-Feb-2026,CUST0151,Axis Bank,Net Banking,"₹5,137.25",Failed,Incorrect PIN,Hyderabad,Merchant,iOS
+TXN0273,01-Apr-2026,CUST0084,Kotak Mahindra Bank,UPI,₹372.19,Success,,Ahmedabad,Individual,Android
+TXN0274,27-Sep-2026,CUST0028,HDFC Bank,Net Banking,₹411.19,Success,,Bengaluru,Merchant,Web
+TXN0275,22-Jun-2026,CUST0209,Axis Bank,UPI,"₹2,336.88",Success,,Pune,Individual,Android
+TXN0276,22-Sep-2026,CUST0078,Axis Bank,UPI,₹808.36,Success,,Mumbai,Small Business,Android
+TXN0277,10-Aug-2026,CUST0183,ICICI Bank,Net Banking,₹733.88,Pending,,Mumbai,Individual,Android
+TXN0278,16-Jan-2026,CUST0050,HDFC Bank,UPI,"₹1,341.63",Pending,,Ahmedabad,Individual,iOS
+TXN0279,12-Sep-2026,CUST0035,Axis Bank,UPI,₹478.49,Success,,Mumbai,Small Business,Android
+TXN0280,04-Aug-2026,CUST0047,Kotak Mahindra Bank,Wallet,"₹2,163.85",Success,,Chennai,Individual,Android
+TXN0281,15-Jan-2026,CUST0055,Kotak Mahindra Bank,UPI,"₹2,331.88",Success,,Bengaluru,Individual,iOS
+TXN0282,28-Jan-2026,CUST0091,Axis Bank,UPI,"₹1,425.94",Success,,Hyderabad,Merchant,Android
+TXN0283,14-Sep-2026,CUST0124,ICICI Bank,Net Banking,₹751.73,Failed,Incorrect PIN,Mumbai,Individual,iOS
+TXN0284,03-Apr-2026,CUST0177,State Bank of India,UPI,₹375.59,Success,,Ahmedabad,Individual,Android
+TXN0285,21-May-2026,CUST0177,State Bank of India,UPI,"₹2,862.18",Success,,Kolkata,Individual,Android
+TXN0286,11-Jul-2026,CUST0041,State Bank of India,UPI,"₹1,314.11",Success,,Pune,Merchant,Android
+TXN0287,17-Jan-2026,CUST0077,HDFC Bank,UPI,₹944.62,Pending,,Chennai,Individual,iOS
+TXN0288,07-May-2026,CUST0109,HDFC Bank,UPI,₹660.54,Failed,Bank Declined,Ahmedabad,Individual,Android
+TXN0289,25-Sep-2026,CUST0158,Axis Bank,Credit Card,₹488.55,Success,,Delhi,Small Business,Web
+TXN0290,03-Aug-2026,CUST0164,Axis Bank,UPI,"₹2,596.69",Success,,Delhi,Individual,iOS
+TXN0291,23-Mar-2026,CUST0002,HDFC Bank,UPI,"₹1,387.31",Success,,Mumbai,Individual,Android
+TXN0292,15-Apr-2026,CUST0201,State Bank of India,Debit Card,₹649.44,Success,,Bengaluru,Individual,Android
+TXN0293,08-Feb-2026,CUST0081,ICICI Bank,UPI,"₹1,597.56",Success,,Hyderabad,Individual,Android
+TXN0294,25-Sep-2026,CUST0049,HDFC Bank,UPI,"₹1,934.35",Success,,Chennai,Individual,Android
+TXN0295,07-May-2026,CUST0119,Axis Bank,Debit Card,"₹3,100.62",Success,,Hyderabad,Small Business,Android
+TXN0296,14-Mar-2026,CUST0156,ICICI Bank,UPI,₹626.69,Success,,Pune,Individual,iOS
+TXN0297,21-Jun-2026,CUST0167,ICICI Bank,UPI,"₹1,085.01",Success,,Bengaluru,Individual,iOS
+TXN0298,05-Jun-2026,CUST0157,Axis Bank,UPI,"₹2,204.34",Success,,Hyderabad,Merchant,Android
+TXN0299,21-Jul-2026,CUST0136,State Bank of India,UPI,"₹3,206.09",Success,,Pune,Individual,Android
+TXN0300,25-Jun-2026,CUST0069,Axis Bank,UPI,"₹3,418.10",Success,,Pune,Individual,iOS
+TXN0301,08-Mar-2026,CUST0125,State Bank of India,UPI,"₹1,111.52",Success,,Ahmedabad,Individual,Android
+TXN0302,02-Sep-2026,CUST0087,Kotak Mahindra Bank,UPI,"₹1,631.12",Success,,Delhi,Individual,Web
+TXN0303,14-May-2026,CUST0240,Kotak Mahindra Bank,Wallet,"₹2,892.63",Success,,Bengaluru,Merchant,Android
+TXN0304,09-Mar-2026,CUST0087,HDFC Bank,Wallet,"₹1,583.37",Success,,Mumbai,Individual,Android
+TXN0305,11-Feb-2026,CUST0068,Kotak Mahindra Bank,UPI,"₹1,802.98",Success,,Pune,Small Business,Android
+TXN0306,02-Apr-2026,CUST0017,Kotak Mahindra Bank,Debit Card,"₹2,268.00",Success,,Bengaluru,Individual,Web
+TXN0307,09-Apr-2026,CUST0145,ICICI Bank,Debit Card,"₹1,493.64",Success,,Bengaluru,Individual,Android
+TXN0308,11-Apr-2026,CUST0173,State Bank of India,UPI,"₹2,355.89",Success,,Chennai,Merchant,Web
+TXN0309,16-Feb-2026,CUST0147,Axis Bank,Credit Card,₹914.84,Success,,Mumbai,Merchant,Web
+TXN0310,03-Jun-2026,CUST0102,Axis Bank,Wallet,"₹1,480.55",Success,,Kolkata,Merchant,iOS
+TXN0311,16-Mar-2026,CUST0219,State Bank of India,UPI,"₹1,938.98",Failed,Fraud Check,Ahmedabad,Individual,Android
+TXN0312,23-Mar-2026,CUST0116,Axis Bank,UPI,₹696.54,Success,,Chennai,Merchant,Android
+TXN0313,13-Aug-2026,CUST0171,Kotak Mahindra Bank,UPI,"₹1,084.24",Failed,Fraud Check,Chennai,Small Business,iOS
+TXN0314,23-Feb-2026,CUST0030,Kotak Mahindra Bank,UPI,"₹2,547.20",Success,,Ahmedabad,Small Business,Android
+TXN0315,26-Feb-2026,CUST0127,Kotak Mahindra Bank,Debit Card,"₹1,093.66",Success,,Hyderabad,Small Business,iOS
+TXN0316,14-Sep-2026,CUST0128,ICICI Bank,Net Banking,₹918.48,Success,,Chennai,Individual,Android
+TXN0317,17-Sep-2026,CUST0061,State Bank of India,UPI,₹723.21,Success,,Pune,Small Business,Web
+TXN0318,24-Mar-2026,CUST0102,ICICI Bank,UPI,"₹1,076.73",Success,,Ahmedabad,Individual,Web
+TXN0319,07-Jul-2026,CUST0055,Axis Bank,Debit Card,"₹1,678.45",Failed,Fraud Check,Delhi,Individual,Web
+TXN0320,27-Jan-2026,CUST0021,Kotak Mahindra Bank,UPI,₹680.92,Pending,,Chennai,Individual,iOS
+TXN0321,22-Feb-2026,CUST0114,ICICI Bank,UPI,"₹3,644.61",Success,,Delhi,Small Business,Android
+TXN0322,14-Jan-2026,CUST0205,Axis Bank,UPI,₹838.11,Success,,Hyderabad,Small Business,Android
+TXN0323,28-Feb-2026,CUST0049,ICICI Bank,UPI,₹689.51,Success,,Delhi,Small Business,iOS
+TXN0324,20-Mar-2026,CUST0209,HDFC Bank,UPI,"₹2,339.08",Success,,Delhi,Small Business,iOS
+TXN0325,29-Mar-2026,CUST0172,State Bank of India,UPI,"₹2,228.09",Success,,Mumbai,Individual,Android
+TXN0326,10-Apr-2026,CUST0165,State Bank of India,Net Banking,₹626.24,Failed,Incorrect PIN,Hyderabad,Individual,Android
+TXN0327,05-Jul-2026,CUST0235,HDFC Bank,Wallet,"₹1,272.63",Success,,Ahmedabad,Small Business,Android
+TXN0328,13-Jan-2026,CUST0021,Axis Bank,UPI,₹791.49,Success,,Bengaluru,Merchant,iOS
+TXN0329,30-Jul-2026,CUST0206,Axis Bank,UPI,₹863.93,Success,,Ahmedabad,Individual,Android
+TXN0330,15-Aug-2026,CUST0031,Axis Bank,UPI,"₹1,332.63",Success,,Chennai,Small Business,Android
+TXN0331,16-Jan-2026,CUST0216,HDFC Bank,Credit Card,"₹2,417.32",Success,,Kolkata,Small Business,iOS
+TXN0332,21-Sep-2026,CUST0232,ICICI Bank,Debit Card,₹940.16,Success,,Bengaluru,Individual,iOS
+TXN0333,06-Mar-2026,CUST0053,HDFC Bank,UPI,₹937.87,Success,,Mumbai,Individual,Android
+TXN0334,15-Mar-2026,CUST0138,Kotak Mahindra Bank,UPI,"₹1,886.48",Success,,Pune,Individual,Android
+TXN0335,12-Jun-2026,CUST0090,Axis Bank,UPI,₹175.62,Success,,Ahmedabad,Small Business,Web
+TXN0336,18-Aug-2026,CUST0027,Axis Bank,Credit Card,"₹1,039.82",Pending,,Ahmedabad,Small Business,Android
+TXN0337,30-Jun-2026,CUST0055,Kotak Mahindra Bank,UPI,"₹1,039.29",Success,,Pune,Individual,Android
+TXN0338,07-Jan-2026,CUST0228,Axis Bank,UPI,₹714.34,Success,,Ahmedabad,Individual,iOS
+TXN0339,21-Apr-2026,CUST0195,HDFC Bank,Net Banking,"₹1,772.20",Success,,Ahmedabad,Individual,Android
+TXN0340,06-Jun-2026,CUST0090,Axis Bank,UPI,"₹5,155.29",Success,,Hyderabad,Small Business,Android
+TXN0341,14-Apr-2026,CUST0106,Axis Bank,Wallet,"₹1,218.95",Success,,Pune,Individual,Android
+TXN0342,26-Jan-2026,CUST0068,State Bank of India,Net Banking,"₹1,426.68",Success,,Hyderabad,Individual,Web
+TXN0343,18-Feb-2026,CUST0114,HDFC Bank,Credit Card,"₹1,071.18",Success,,Chennai,Individual,iOS
+TXN0344,05-Jan-2026,CUST0226,HDFC Bank,UPI,"₹1,639.95",Success,,Bengaluru,Individual,Android
+TXN0345,15-Jan-2026,CUST0222,ICICI Bank,Wallet,"₹1,688.83",Success,,Pune,Individual,Android
+TXN0346,06-Jan-2026,CUST0077,Axis Bank,UPI,"₹1,074.04",Pending,,Hyderabad,Individual,Web
+TXN0347,19-Feb-2026,CUST0249,Axis Bank,Wallet,₹869.70,Failed,Fraud Check,Bengaluru,Individual,Android
+TXN0348,19-May-2026,CUST0134,ICICI Bank,UPI,"₹1,865.89",Success,,Bengaluru,Individual,Android
+TXN0349,17-Sep-2026,CUST0106,HDFC Bank,UPI,"₹1,792.62",Failed,Bank Declined,Bengaluru,Individual,Web
+TXN0350,08-Jan-2026,CUST0084,Axis Bank,Credit Card,"₹2,120.95",Success,,Chennai,Individual,Android
+TXN0351,29-Mar-2026,CUST0171,Kotak Mahindra Bank,Debit Card,"₹1,829.53",Success,,Delhi,Small Business,Android
+TXN0352,04-Aug-2026,CUST0121,ICICI Bank,Net Banking,"₹1,640.94",Success,,Chennai,Small Business,Android
+TXN0353,21-May-2026,CUST0103,HDFC Bank,UPI,"₹1,193.54",Failed,Insufficient Balance,Bengaluru,Individual,iOS
+TXN0354,01-Apr-2026,CUST0082,HDFC Bank,UPI,"₹1,903.31",Success,,Delhi,Merchant,Android
+TXN0355,24-Apr-2026,CUST0068,HDFC Bank,UPI,"₹1,729.26",Success,,Mumbai,Individual,iOS
+TXN0356,16-Jul-2026,CUST0188,State Bank of India,Credit Card,"₹1,964.95",Success,,Hyderabad,Individual,iOS
+TXN0357,18-Jul-2026,CUST0041,ICICI Bank,Credit Card,"₹1,041.31",Success,,Kolkata,Individual,Android
+TXN0358,27-May-2026,CUST0129,Axis Bank,Debit Card,"₹2,395.42",Failed,Bank Declined,Pune,Individual,Android
+TXN0359,14-Jul-2026,CUST0109,ICICI Bank,Net Banking,₹735.36,Success,,Mumbai,Individual,Android
+TXN0360,10-Mar-2026,CUST0070,Kotak Mahindra Bank,UPI,"₹2,981.29",Success,,Pune,Individual,iOS
+TXN0361,18-May-2026,CUST0076,Axis Bank,UPI,₹775.49,Success,,Bengaluru,Merchant,Android
+TXN0362,07-Feb-2026,CUST0030,Axis Bank,Credit Card,₹772.05,Success,,Chennai,Individual,iOS
+TXN0363,09-Jul-2026,CUST0016,HDFC Bank,UPI,₹782.17,Success,,Pune,Individual,Web
+TXN0364,22-Jan-2026,CUST0202,Kotak Mahindra Bank,UPI,"₹2,081.28",Success,,Ahmedabad,Small Business,Android
+TXN0365,01-Feb-2026,CUST0180,State Bank of India,Debit Card,"₹1,720.39",Success,,Ahmedabad,Individual,Android
+TXN0366,21-Apr-2026,CUST0036,Kotak Mahindra Bank,Credit Card,₹782.93,Success,,Hyderabad,Individual,Android
+TXN0367,22-Mar-2026,CUST0162,HDFC Bank,UPI,"₹2,701.42",Failed,Insufficient Balance,Chennai,Small Business,iOS
+TXN0368,08-Sep-2026,CUST0081,HDFC Bank,UPI,"₹2,531.90",Success,,Hyderabad,Individual,iOS
+TXN0369,04-Mar-2026,CUST0128,HDFC Bank,UPI,"₹2,086.21",Success,,Mumbai,Individual,Android
+TXN0370,12-Feb-2026,CUST0059,ICICI Bank,Net Banking,"₹2,824.05",Success,,Mumbai,Merchant,Android
+TXN0371,17-Jun-2026,CUST0123,Kotak Mahindra Bank,Credit Card,"₹1,206.37",Success,,Ahmedabad,Small Business,Android
+TXN0372,12-Feb-2026,CUST0057,Axis Bank,Net Banking,₹731.31,Failed,Incorrect PIN,Chennai,Individual,Android
+TXN0373,07-Jan-2026,CUST0113,State Bank of India,Net Banking,"₹1,651.88",Success,,Bengaluru,Individual,iOS
+TXN0374,12-Jan-2026,CUST0057,State Bank of India,UPI,"₹1,045.95",Success,,Hyderabad,Individual,iOS
+TXN0375,10-Mar-2026,CUST0084,Kotak Mahindra Bank,Debit Card,₹802.90,Failed,Bank Declined,Bengaluru,Individual,Android
+TXN0376,01-Jul-2026,CUST0082,State Bank of India,Credit Card,₹333.47,Success,,Ahmedabad,Small Business,Android
+TXN0377,21-Jul-2026,CUST0212,ICICI Bank,UPI,"₹1,625.81",Success,,Hyderabad,Merchant,Android
+TXN0378,07-Aug-2026,CUST0124,State Bank of India,UPI,"₹1,162.50",Success,,Bengaluru,Individual,Android
+TXN0379,15-Mar-2026,CUST0148,State Bank of India,Debit Card,₹650.03,Success,,Hyderabad,Merchant,Android
+TXN0380,18-Apr-2026,CUST0134,State Bank of India,UPI,"₹1,663.76",Success,,Chennai,Individual,iOS
+TXN0381,26-Jul-2026,CUST0083,HDFC Bank,Debit Card,₹346.81,Failed,Insufficient Balance,Bengaluru,Individual,iOS
+TXN0382,03-Jun-2026,CUST0248,Kotak Mahindra Bank,UPI,"₹5,958.04",Success,,Chennai,Individual,Web
+TXN0383,08-Apr-2026,CUST0164,Kotak Mahindra Bank,Debit Card,₹822.63,Failed,Network Error,Kolkata,Merchant,Android
+TXN0384,14-Mar-2026,CUST0114,ICICI Bank,Net Banking,"₹1,079.09",Success,,Ahmedabad,Small Business,Web
+TXN0385,23-Feb-2026,CUST0155,HDFC Bank,UPI,"₹2,071.68",Success,,Kolkata,Merchant,Web
+TXN0386,05-Sep-2026,CUST0039,State Bank of India,UPI,₹941.96,Success,,Mumbai,Small Business,iOS
+TXN0387,02-Sep-2026,CUST0061,HDFC Bank,UPI,"₹1,570.99",Failed,Incorrect PIN,Mumbai,Individual,Android
+TXN0388,10-Jun-2026,CUST0019,ICICI Bank,Debit Card,"₹1,837.26",Success,,Pune,Merchant,Web
+TXN0389,13-Jun-2026,CUST0179,ICICI Bank,UPI,"₹1,270.34",Success,,Pune,Small Business,iOS
+TXN0390,28-Jul-2026,CUST0137,State Bank of India,Wallet,"₹2,094.54",Failed,Bank Declined,Mumbai,Individual,Web
+TXN0391,25-Feb-2026,CUST0107,State Bank of India,Net Banking,₹875.49,Success,,Kolkata,Small Business,Android
+TXN0392,06-Feb-2026,CUST0205,ICICI Bank,Credit Card,"₹3,334.37",Success,,Delhi,Individual,iOS
+TXN0393,17-Sep-2026,CUST0242,Axis Bank,UPI,₹344.34,Success,,Kolkata,Individual,iOS
+TXN0394,01-May-2026,CUST0199,Kotak Mahindra Bank,UPI,"₹4,063.03",Failed,Network Error,Ahmedabad,Individual,iOS
+TXN0395,19-Apr-2026,CUST0153,HDFC Bank,Net Banking,"₹1,025.96",Success,,Kolkata,Merchant,Android
+TXN0396,02-Mar-2026,CUST0036,Axis Bank,UPI,"₹3,105.77",Failed,Bank Declined,Ahmedabad,Small Business,Android
+TXN0397,20-Apr-2026,CUST0035,HDFC Bank,Wallet,"₹1,279.85",Success,,Mumbai,Individual,Android
+TXN0398,08-Feb-2026,CUST0158,Kotak Mahindra Bank,UPI,₹227.15,Success,,Delhi,Merchant,Android
+TXN0399,02-Aug-2026,CUST0085,Axis Bank,UPI,₹911.10,Success,,Chennai,Individual,Android
+TXN0400,14-May-2026,CUST0122,HDFC Bank,Credit Card,₹302.76,Failed,Fraud Check,Pune,Individual,Android
+TXN0401,18-May-2026,CUST0127,ICICI Bank,UPI,"₹2,777.31",Success,,Kolkata,Individual,Android
+TXN0402,27-May-2026,CUST0190,Axis Bank,UPI,"₹4,748.19",Success,,Ahmedabad,Individual,Android
+TXN0403,19-Jan-2026,CUST0093,Kotak Mahindra Bank,Credit Card,₹635.81,Success,,Delhi,Individual,Android
+TXN0404,27-Aug-2026,CUST0026,HDFC Bank,UPI,"₹4,358.84",Success,,Hyderabad,Individual,Android
+TXN0405,17-Jan-2026,CUST0171,ICICI Bank,Net Banking,₹841.71,Success,,Mumbai,Merchant,iOS
+TXN0406,25-Jan-2026,CUST0144,State Bank of India,Debit Card,₹457.95,Success,,Chennai,Merchant,Android
+TXN0407,25-Jan-2026,CUST0118,Kotak Mahindra Bank,Credit Card,"₹2,384.25",Success,,Mumbai,Merchant,Android
+TXN0408,21-Aug-2026,CUST0139,Kotak Mahindra Bank,UPI,"₹2,684.13",Success,,Bengaluru,Small Business,Android
+TXN0409,30-Jun-2026,CUST0104,ICICI Bank,UPI,"₹4,483.97",Success,,Ahmedabad,Individual,Android
+TXN0410,08-Aug-2026,CUST0020,HDFC Bank,UPI,₹536.42,Pending,,Hyderabad,Individual,Android
+TXN0411,09-Aug-2026,CUST0122,State Bank of India,UPI,₹293.73,Success,,Chennai,Individual,Android
+TXN0412,17-Apr-2026,CUST0124,State Bank of India,Wallet,"₹1,910.00",Success,,Delhi,Small Business,Android
+TXN0413,26-Jul-2026,CUST0244,ICICI Bank,UPI,"₹1,297.29",Success,,Hyderabad,Individual,Android
+TXN0414,28-Jul-2026,CUST0127,State Bank of India,UPI,₹777.27,Success,,Ahmedabad,Small Business,Android
+TXN0415,08-Aug-2026,CUST0214,State Bank of India,UPI,₹526.19,Success,,Hyderabad,Small Business,Web
+TXN0416,03-Mar-2026,CUST0059,ICICI Bank,UPI,₹921.69,Success,,Hyderabad,Small Business,Android
+TXN0417,09-Feb-2026,CUST0178,ICICI Bank,Net Banking,"₹2,605.87",Success,,Kolkata,Small Business,Android
+TXN0418,26-May-2026,CUST0195,HDFC Bank,Wallet,"₹1,486.36",Success,,Ahmedabad,Individual,Android
+TXN0419,10-Aug-2026,CUST0074,Kotak Mahindra Bank,Net Banking,"₹1,352.96",Success,,Delhi,Individual,iOS
+TXN0420,26-Jul-2026,CUST0001,Axis Bank,Credit Card,₹380.56,Success,,Delhi,Small Business,Android
+TXN0421,14-Jun-2026,CUST0157,ICICI Bank,Debit Card,₹935.05,Failed,Daily Limit Exceeded,Ahmedabad,Individual,Web
+TXN0422,14-Apr-2026,CUST0038,ICICI Bank,Debit Card,"₹1,734.95",Success,,Delhi,Small Business,Web
+TXN0423,25-Jun-2026,CUST0182,Kotak Mahindra Bank,UPI,"₹7,533.93",Success,,Mumbai,Merchant,Web
+TXN0424,27-Mar-2026,CUST0235,ICICI Bank,UPI,₹496.63,Success,,Mumbai,Small Business,Android
+TXN0425,03-Jan-2026,CUST0074,HDFC Bank,Debit Card,"₹2,477.85",Success,,Kolkata,Merchant,iOS
+TXN0426,02-Mar-2026,CUST0028,Axis Bank,UPI,"₹1,537.64",Failed,Daily Limit Exceeded,Ahmedabad,Individual,Web
+TXN0427,16-Jul-2026,CUST0203,ICICI Bank,UPI,₹817.11,Failed,Fraud Check,Kolkata,Merchant,Android
+TXN0428,08-Jul-2026,CUST0169,ICICI Bank,Debit Card,"₹6,342.90",Success,,Ahmedabad,Merchant,Android
+TXN0429,28-Feb-2026,CUST0204,State Bank of India,UPI,"₹2,562.33",Success,,Mumbai,Individual,iOS
+TXN0430,02-Aug-2026,CUST0161,HDFC Bank,Debit Card,"₹3,281.92",Success,,Hyderabad,Merchant,Android
+TXN0431,28-Feb-2026,CUST0037,State Bank of India,Net Banking,"₹2,264.17",Success,,Kolkata,Individual,Android
+TXN0432,18-Aug-2026,CUST0008,ICICI Bank,Debit Card,"₹1,745.68",Success,,Bengaluru,Individual,Android
+TXN0433,29-Jan-2026,CUST0045,Axis Bank,Debit Card,₹654.91,Success,,Chennai,Merchant,iOS
+TXN0434,27-Aug-2026,CUST0179,State Bank of India,Debit Card,"₹1,073.12",Success,,Hyderabad,Small Business,Web
+TXN0435,31-Jul-2026,CUST0124,HDFC Bank,Debit Card,"₹2,010.78",Success,,Ahmedabad,Merchant,iOS
+TXN0436,19-Aug-2026,CUST0238,Axis Bank,UPI,₹557.80,Success,,Mumbai,Small Business,Web
+TXN0437,11-Jan-2026,CUST0015,State Bank of India,UPI,₹891.78,Success,,Kolkata,Individual,Web
+TXN0438,25-Mar-2026,CUST0139,HDFC Bank,Wallet,"₹3,346.04",Success,,Ahmedabad,Individual,Android
+TXN0439,20-Apr-2026,CUST0036,ICICI Bank,UPI,₹467.55,Success,,Chennai,Individual,Android
+TXN0440,11-Apr-2026,CUST0120,Axis Bank,UPI,"₹1,861.61",Pending,,Chennai,Small Business,Android
+TXN0441,10-May-2026,CUST0099,Kotak Mahindra Bank,Debit Card,"₹1,790.04",Success,,Ahmedabad,Individual,Android
+TXN0442,22-Apr-2026,CUST0106,HDFC Bank,UPI,"₹2,269.47",Success,,Mumbai,Individual,Android
+TXN0443,30-Jun-2026,CUST0207,ICICI Bank,Credit Card,₹493.08,Success,,Bengaluru,Merchant,iOS
+TXN0444,16-Jun-2026,CUST0208,HDFC Bank,Debit Card,₹210.32,Success,,Ahmedabad,Individual,Android
+TXN0445,20-Jul-2026,CUST0187,HDFC Bank,Net Banking,₹99.14,Success,,Bengaluru,Small Business,Android
+TXN0446,12-Aug-2026,CUST0249,Kotak Mahindra Bank,UPI,₹398.77,Success,,Hyderabad,Merchant,Android
+TXN0447,07-Jul-2026,CUST0220,HDFC Bank,UPI,"₹6,337.01",Success,,Hyderabad,Small Business,Android
+TXN0448,22-Feb-2026,CUST0166,Axis Bank,UPI,"₹1,065.07",Success,,Bengaluru,Individual,Web
+TXN0449,19-Jul-2026,CUST0031,State Bank of India,Credit Card,₹259.10,Success,,Delhi,Individual,Android
+TXN0450,12-Sep-2026,CUST0084,Axis Bank,UPI,"₹2,414.61",Success,,Mumbai,Individual,Android
+TXN0451,13-Jan-2026,CUST0205,Axis Bank,UPI,"₹3,301.30",Success,,Hyderabad,Individual,Android
+TXN0452,30-Sep-2026,CUST0218,ICICI Bank,UPI,"₹4,172.03",Success,,Bengaluru,Individual,Android
+TXN0453,21-Apr-2026,CUST0145,HDFC Bank,UPI,"₹1,138.99",Success,,Hyderabad,Individual,Android
+TXN0454,13-Jan-2026,CUST0149,Kotak Mahindra Bank,Credit Card,"₹2,339.21",Success,,Pune,Small Business,Android
+TXN0455,22-Apr-2026,CUST0180,HDFC Bank,Debit Card,"₹1,334.11",Success,,Kolkata,Individual,Android
+TXN0456,17-May-2026,CUST0015,HDFC Bank,Net Banking,₹242.78,Success,,Kolkata,Individual,Android
+TXN0457,20-May-2026,CUST0115,State Bank of India,Debit Card,₹782.66,Success,,Pune,Small Business,iOS
+TXN0458,19-May-2026,CUST0151,HDFC Bank,Debit Card,"₹1,536.42",Success,,Mumbai,Individual,iOS
+TXN0459,25-Feb-2026,CUST0088,State Bank of India,UPI,₹742.54,Success,,Pune,Individual,Android
+TXN0460,29-May-2026,CUST0230,State Bank of India,Wallet,"₹1,059.35",Success,,Chennai,Individual,iOS
+TXN0461,28-Jan-2026,CUST0105,State Bank of India,UPI,"₹1,538.53",Success,,Kolkata,Merchant,Android
+TXN0462,16-Aug-2026,CUST0028,State Bank of India,Debit Card,"₹1,790.28",Success,,Delhi,Individual,Android
+TXN0463,29-Jul-2026,CUST0184,ICICI Bank,Wallet,"₹1,217.36",Success,,Kolkata,Individual,Android
+TXN0464,17-Mar-2026,CUST0118,Kotak Mahindra Bank,UPI,"₹1,425.61",Success,,Mumbai,Merchant,Android
+TXN0465,14-Mar-2026,CUST0015,State Bank of India,Debit Card,"₹2,227.51",Success,,Ahmedabad,Small Business,iOS
+TXN0466,12-Jun-2026,CUST0140,Kotak Mahindra Bank,UPI,"₹2,212.95",Failed,Server Downtime,Kolkata,Individual,Android
+TXN0467,12-May-2026,CUST0177,HDFC Bank,UPI,"₹2,812.40",Success,,Delhi,Individual,Android
+TXN0468,26-Apr-2026,CUST0180,Kotak Mahindra Bank,UPI,₹523.41,Failed,Fraud Check,Mumbai,Individual,iOS
+TXN0469,25-Jan-2026,CUST0151,Axis Bank,UPI,"₹2,377.01",Success,,Bengaluru,Merchant,Web
+TXN0470,11-Jul-2026,CUST0061,ICICI Bank,Net Banking,"₹1,299.05",Success,,Delhi,Individual,Android
+TXN0471,11-Jul-2026,CUST0193,State Bank of India,UPI,"₹1,370.58",Failed,Network Error,Hyderabad,Individual,Android
+TXN0472,07-Jul-2026,CUST0200,State Bank of India,Debit Card,₹605.49,Success,,Kolkata,Individual,Web
+TXN0473,08-Aug-2026,CUST0111,Axis Bank,UPI,"₹1,142.07",Success,,Mumbai,Small Business,Android
+TXN0474,06-Sep-2026,CUST0175,ICICI Bank,Debit Card,"₹1,682.55",Failed,Fraud Check,Hyderabad,Small Business,Android
+TXN0475,30-Sep-2026,CUST0239,HDFC Bank,UPI,₹534.61,Success,,Ahmedabad,Individual,Web
+TXN0476,13-Mar-2026,CUST0060,Kotak Mahindra Bank,Net Banking,₹744.40,Success,,Bengaluru,Small Business,Android
+TXN0477,06-Jan-2026,CUST0059,ICICI Bank,UPI,₹804.40,Success,,Delhi,Merchant,Android
+TXN0478,30-Aug-2026,CUST0119,HDFC Bank,Wallet,"₹1,421.33",Success,,Mumbai,Small Business,Android
+TXN0479,19-Jan-2026,CUST0125,State Bank of India,UPI,"₹2,601.85",Success,,Ahmedabad,Merchant,Android
+TXN0480,25-May-2026,CUST0128,ICICI Bank,Net Banking,"₹3,292.59",Success,,Mumbai,Individual,iOS
+TXN0481,27-Aug-2026,CUST0003,Axis Bank,UPI,"₹1,702.27",Success,,Hyderabad,Individual,Android
+TXN0482,03-Sep-2026,CUST0115,State Bank of India,UPI,₹321.88,Failed,Server Downtime,Chennai,Merchant,Android
+TXN0483,13-Apr-2026,CUST0060,ICICI Bank,UPI,"₹3,353.92",Success,,Pune,Individual,iOS
+TXN0484,08-Apr-2026,CUST0238,Kotak Mahindra Bank,Net Banking,"₹3,505.79",Success,,Chennai,Small Business,Android
+TXN0485,18-Apr-2026,CUST0212,ICICI Bank,UPI,"₹2,078.19",Success,,Chennai,Individual,Android
+TXN0486,06-Jan-2026,CUST0132,State Bank of India,UPI,"₹1,022.53",Pending,,Chennai,Individual,Android
+TXN0487,02-Aug-2026,CUST0087,State Bank of India,UPI,"₹1,003.37",Success,,Hyderabad,Merchant,Android
+TXN0488,27-Sep-2026,CUST0175,HDFC Bank,Debit Card,"₹3,149.50",Success,,Bengaluru,Merchant,Android
+TXN0489,10-Mar-2026,CUST0206,Axis Bank,UPI,"₹1,682.49",Success,,Delhi,Individual,Android
+TXN0490,04-Apr-2026,CUST0099,HDFC Bank,UPI,₹295.22,Success,,Mumbai,Small Business,iOS
+TXN0491,11-Jan-2026,CUST0016,ICICI Bank,UPI,₹534.42,Success,,Kolkata,Individual,Web
+TXN0492,29-Aug-2026,CUST0235,State Bank of India,UPI,₹613.31,Success,,Hyderabad,Small Business,Web
+TXN0493,27-Aug-2026,CUST0007,ICICI Bank,UPI,"₹1,290.39",Success,,Delhi,Individual,iOS
+TXN0494,10-Jul-2026,CUST0209,Axis Bank,UPI,₹822.37,Success,,Kolkata,Individual,Android
+TXN0495,08-Jan-2026,CUST0195,ICICI Bank,Net Banking,₹270.69,Success,,Chennai,Individual,Android
+TXN0496,16-Aug-2026,CUST0055,Axis Bank,Debit Card,₹759.42,Success,,Bengaluru,Individual,Android
+TXN0497,28-May-2026,CUST0034,ICICI Bank,UPI,₹641.03,Success,,Hyderabad,Small Business,iOS
+TXN0498,21-May-2026,CUST0231,Kotak Mahindra Bank,UPI,"₹3,120.87",Success,,Kolkata,Merchant,Web
+TXN0499,07-Feb-2026,CUST0126,HDFC Bank,Net Banking,"₹2,124.00",Success,,Ahmedabad,Small Business,Android
+TXN0500,16-Mar-2026,CUST0106,ICICI Bank,UPI,₹508.09,Pending,,Kolkata,Individual,Android
